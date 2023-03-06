@@ -7,6 +7,7 @@
 
 ### 프로그래머스 채용프로그램 - dev matching
 - 어딨는지 맨날 헷갈리는 페이지
+- 2023년 3월 백엔드 오픈예정
 - [링크](https://career.programmers.co.kr/competitions)
 
 
