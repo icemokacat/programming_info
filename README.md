@@ -22,3 +22,5 @@
 
 ### 원티드 AI 면접코칭
 [링크](https://www.wanted.co.kr/ai-interview)
+
+[FE 서비스 워커 Mock Response 만들기](https://fe-developers.kakaoent.com/2022/221208-service-worker/)
